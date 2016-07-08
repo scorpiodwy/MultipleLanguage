@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultipleLanguage</string>
+    <string name="action_change_pass">更改密码</string>
+    <string name="action_devinfo">开发者</string>
+    <string name="action_logout">注销</string>
+    <string name="action_search">搜索</string>
+    <string name="action_settings">设置</string>
+    <string name="language_setting">更换语言</string>
+    <string name="select_note">选择语言</string>
+    <string name="share_app">分享 App</string>
+    <string name="hello">你好</string>
+    <string name="clickme">点我</string>
+</resources>

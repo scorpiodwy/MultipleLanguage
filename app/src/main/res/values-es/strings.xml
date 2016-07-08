@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultipleLanguage</string>
+    <string name="select_note">elige tu idioma</string>
+    <string name="action_change_pass">Cambia la contraseña</string>
+    <string name="action_devinfo">Desarrollador</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_settings">ajustes</string>
+    <string name="language_setting">Cambiar idioma</string>
+    <string name="share_app">Compartir aplicación</string>
+    <string name="hello">Hola</string>
+    <string name="clickme">Haz click en mi</string>
+</resources>

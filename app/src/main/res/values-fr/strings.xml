@@ -1,0 +1,14 @@
+<resources>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_search">Chercher</string>
+    <string name="action_logout"> Se déconnecter</string>
+    <string name="action_devinfo">Développeur</string>
+    <string name="language_setting">Changer de langue </string>
+    <string name="action_change_pass">Changer le mot de passe</string>
+    <string name="share_app">Partager App</string>
+    <string name="select_note">Choisissez votre langue</string>
+    <string name="app_name">MultipleLanguage</string>
+    <string name="hello">Bonjour</string>
+    <string name="clickme"> Cliquez-moi</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.wenyun.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/action_logout"
+                android:orderInCategory="99"
+                app:showAsAction="never"
+                android:title="@string/action_logout"/>
+
+            <item
+                android:id="@+id/action_changepass"
+                android:orderInCategory="95"
+                app:showAsAction="never"
+                android:title="@string/action_change_pass"/>
+
+            <item
+                android:id="@+id/action_devinfo"
+                android:orderInCategory="80"
+                android:title="@string/action_devinfo"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_share_app"
+                android:orderInCategory="70"
+                android:title="@string/share_app"
+                app:showAsAction="never"/>
+
+            <item
+                android:id="@+id/action_change_language"
+                android:orderInCategory="60"
+                android:title="@string/language_setting"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+</menu>
